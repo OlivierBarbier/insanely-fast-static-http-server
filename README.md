@@ -6,4 +6,4 @@ Start your static http server in seconds:
 
 Just replace PATH_TO_STATIC_CONTENTS with the absolute path of the static content you want to serve.
 
-Then open your browser to http://localhost/ and voilà!
+Then open your browser to http://localhost:3000/ and voilà!
